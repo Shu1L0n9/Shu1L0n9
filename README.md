@@ -1,10 +1,10 @@
 Hi there, I'm **Shu1L0n9**! 👋
 
-### 💬 Ask me about
-- 机器学习、深度学习、船海智能
+💬 Ask me about
+- Machine Learning, Deep Learning, and Intelligent Marine Systems
 
-### ⚡ Fun fact
-- 个人主页：[shu1l0n9.github.io](https://shu1l0n9.github.io)
+⚡ Fun fact
+- Blog：[shu1l0n9.github.io](https://shu1l0n9.github.io)
 
 ---
 
