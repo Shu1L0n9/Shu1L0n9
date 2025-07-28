@@ -12,7 +12,7 @@ I'm open to **research collaborations**, **internships**, and exciting projects 
 - Multimodal Learning  
 - Machine Learning for Marine Systems  
 - Computer Vision & Temporal Modeling  
-
+<!--
 ---
 
-[![Shu1L0n9's GitHub stats](https://github-readme-stats.vercel.app/api?username=shu1l0n9&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Shu1L0n9's GitHub stats](https://github-readme-stats.vercel.app/api?username=shu1l0n9&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats) -->
