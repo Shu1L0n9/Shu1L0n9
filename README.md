@@ -1,9 +1,18 @@
-Hi there, I'm **Shu1L0n9**! 👋
+# Hi, I'm Shu1L0n9 👋
 
-💬 Ask me about
-- Machine Learning, Deep Learning, and Intelligent Marine Systems
+I'm a student and aspiring researcher at **Harbin Engineering University**, focused on developing data-driven models to understand and predict complex behaviors in marine environments. My work leverages deep learning, multimodal fusion, and sequential modeling.
 
-⚡ Fun fact
-- Blog：[shu1l0n9.github.io](https://shu1l0n9.github.io)
+I'm open to **research collaborations**, **internships**, and exciting projects in **deep learning** and **intelligent systems**. Feel free to connect!
 
-[![Shu1L0n9's GitHub stats](https://github-readme-stats.vercel.app/api?username=shu1l0n9)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+### 🔍 Research Interests
+
+- Deep Learning & Representation Learning  
+- Multimodal Learning  
+- Machine Learning for Marine Systems  
+- Computer Vision & Temporal Modeling  
+
+---
+
+[![Shu1L0n9's GitHub stats](https://github-readme-stats.vercel.app/api?username=shu1l0n9&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
